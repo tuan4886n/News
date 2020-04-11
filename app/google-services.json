@@ -8,7 +8,6 @@
   "client": [
     {
       "client_info": {
-<<<<<<< HEAD
         "mobilesdk_app_id": "1:885687171339:android:cecb68901e37a71b2c0a0e",
         "android_client_info": {
           "package_name": "com.edu.news"
@@ -38,8 +37,6 @@
     },
     {
       "client_info": {
-=======
->>>>>>> 3037dadbb192fdc4504193eae2167953268ab7dc
         "mobilesdk_app_id": "1:885687171339:android:a90cb6c98e44934e2c0a0e",
         "android_client_info": {
           "package_name": "com.edu.techforums"
