@@ -33,13 +33,13 @@ public class firstFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_first, container, false);
-        tin1 = view.findViewById(R.id.tin1);
-        tin1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(getContext(), detailActivity.class));
-            }
-        });
+//        tin1 = view.findViewById(R.id.tin1);
+//        tin1.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                startActivity(new Intent(getContext(), detailActivity.class));
+//            }
+//        });
 
         return view;
 
