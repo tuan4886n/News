@@ -1,4 +1,4 @@
-package com.edu.news;
+package com.edu.techforums;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.edu.news", appContext.getPackageName());
+        assertEquals("com.edu.techforums", appContext.getPackageName());
     }
 }

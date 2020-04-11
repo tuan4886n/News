@@ -1,4 +1,4 @@
-package com.edu.news.Common;
+package com.edu.techforums;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,9 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
-
-import com.edu.news.LoginActivity;
-import com.edu.news.R;
 
 public class SplashActivity extends AppCompatActivity {
     View mContentView;
@@ -30,7 +27,7 @@ public class SplashActivity extends AppCompatActivity {
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                startActivity(new Intent(getApplicationContext(), LoginActivity.class));
+                startActivity(new Intent(getApplicationContext(),LoginActivity.class));
 
             }
         }, 3000);

@@ -1,4 +1,4 @@
-package com.edu.news;
+package com.edu.techforums;
 
 import org.junit.Test;
 
