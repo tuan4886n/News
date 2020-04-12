@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
 
-import com.edu.news.LoginActivity;
+import com.edu.news.Activities.LoginActivity;
 import com.edu.news.R;
 
 public class SplashActivity extends AppCompatActivity {
