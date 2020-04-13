@@ -21,7 +21,7 @@
         android:background="@color/lightWhite"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/header"
-        app:menu="@menu/drawer_menu" />
+        app:menu="@menu/activity_home_drawer" />
 
 
 

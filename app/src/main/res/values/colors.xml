@@ -7,4 +7,7 @@
     <color name="lightWhite">#D6E6F1</color>
     <color name="danhmuc1">#D6E6F1</color>
     <color name="titleColor">#fff</color>
+    <color name="contentStatusBar">#fff</color>
+    <color name="accentTextColor">#6D6D6D</color>
+    <color name="loginToMyAccount">#039BE5</color>
 </resources>

@@ -25,4 +25,53 @@
     <string name="menu_send">Send</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Introduce Page-->
+    <string name="title_aboutus">
+        Giới thiệu về Tech Talk
+    </string>
+    <string name="content_aboutus">
+        Tech talk dịch vụ thông tin chuyên nghiệp có kiểm duyệt.
+        \nTất cả những thông tin bạn tìm thấy trên mạng liệu có luôn đúng sự thật?
+        \nTìm những thông tin đúng sự thật có được kiểm duyệt trên Tech Talk để chắc chắn rằng bạn có một thông tin chắc chắn
+        \nVới sự phát triển của công nghệ hiện nay, nhu cầu tin tức, thông tin điện tử ngày càng tăng thay thế cho các báo giấy hiện nay. Ứng dụng Tech Talk có thiết kế đơn giản, tốc đô truy cập nhanh, hoạt động mượt, tiết kiệm thời gian cho người dùng
+        \nNhững tính năng nổi bật của Tech Talk ?
+    </string>
+    <string name="title_special">
+        Những tính năng nổi bật của Tech Talk ?
+    </string>
+    <string name="content_special">
+        - Dễ dàng sử dụng, mọi nơi cùng Tech Talk.
+        \n- Người dùng có tài khoản đăng nhập để chọn lọc những tin tức hay xem.
+        \n- Có thể chia sẻ, lưu bài viết trên tài khoản.
+        \n- Có thể bình luận ở mỗi bài viết.
+        \n- Tech Talk sẽ kiểm duyệt các tin tức đúng sự thật.
+    </string>
+    <!--/Introduce Page-->
+
+    <!--Ask-Question-->
+    <string name="group1">Tech Talk hoạt động như thế nào?</string>
+    <string name="group2">Dịch vụ của Tech Talk có đáng tin hay không</string>
+    <string name="group3">Tech Talk có trên Apple Store không?</string>
+
+    <string-array name="group1">
+        <item>Tech Talk là một hệ thống công nghệ được phát triển bởi công ty TNHH Truyền Thông Việt Nam RPPCT nhằm tạo ra những thông tin chất lượng và tiện lợi khi sử dụng cho người dùng.</item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>Toàn bộ CTV của hệ thống Tech Talk đều được xác minh nhân thân, đã qua kiểm tra và đào tạo kĩ năng chuyên môn. Vì vậy, bạn có thể hoàn toàn yên tâm với dịch vụ Tech Talk.</item>
+    </string-array>
+    <string-array name="group3">
+        <item>Tech Talk vẫn chưa được phát triển trên hệ điều hành iOS. Hiện tại Tech Talk đã phát triển hoàn thiện trên web và google play. Tech Talk sẽ mở rộng phạm vi trong tương lai gần để đáp ứng nhu cầu khách hàng.</item>
+    </string-array>
+    <!--/Ask-Question-->
+
+    <!--CSKH-->
+    <string name="cskh">Mọi Khiếu nại, thắc mắc về dịch vụ của chúng tôi, quý khách vui lòng liên hệ qua số điện thoại của tông đài chăm sóc khách hàng
+    </string>
+    <string name="dt">0808 1122 3344</string>
+    <string name="end">để được hỗ trợ tốt nhất</string>
+    <string name="thanks">Xin cảm ơn quý khách đã tin dùng dịch vụ của chúng tôi</string>
+    <!--/CSKH-->
+
 </resources>

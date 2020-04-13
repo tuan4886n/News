@@ -13,40 +13,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Activities.CauHoiThuongGap"></activity>
+        <activity android:name=".Activities.callCSKHActivity" />
+        <activity android:name=".Activities.SendActivity" />
+        <activity android:name=".Activities.AboutActivity" />
         <activity
             android:name=".Activities.HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/AppTheme.NoActionBar">
-
-
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Activities.detailActivity" />
         <activity android:name=".Common.OnBoardingActivity" />
         <activity android:name=".Activities.UserProfile" />
         <activity android:name=".Activities.AllCategories" />
-        <activity android:name=".Common.SplashActivity">
-
-
-        </activity>
+        <activity android:name=".Common.SplashActivity" />
         <activity android:name=".Activities.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-        <activity android:name=".Activities.RegisterActivity">
-
-
-        </activity>
+        <activity android:name=".Activities.RegisterActivity" />
         <activity
             android:name=".Activities.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
             android:name="preloaded_fonts"

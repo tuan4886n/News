@@ -22,7 +22,7 @@ public class detailActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.option_menu,menu);
+        inflater.inflate(R.menu.home,menu);
         return super.onCreateOptionsMenu(menu);
     }
     //menu options click (if = switch item)

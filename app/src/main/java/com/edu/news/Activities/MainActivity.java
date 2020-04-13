@@ -108,7 +108,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 Intent profile = new Intent(getApplicationContext(), UserProfile.class);
                 startActivity(profile);
                 break;
-
+            case R.id.nav_about:
+                Intent about = new Intent(getApplicationContext(), AboutActivity.class);
+                startActivity(about);
+                break;
+            case R.id.nav_send:
+                Intent send = new Intent(getApplicationContext(), SendActivity.class);
+                startActivity(send);
+                break;
 
         }
         return true;
